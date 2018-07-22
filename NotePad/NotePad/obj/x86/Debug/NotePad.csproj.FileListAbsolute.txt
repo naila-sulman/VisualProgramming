@@ -1,0 +1,32 @@
+c:\users\home\documents\visual studio 2010\Projects\NotePad\NotePad\bin\Debug\NotePad.exe
+c:\users\home\documents\visual studio 2010\Projects\NotePad\NotePad\bin\Debug\NotePad.pdb
+c:\users\home\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.Form1.resources
+c:\users\home\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.Properties.Resources.resources
+c:\users\home\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\home\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\home\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.exe
+c:\users\home\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.pdb
+C:\Users\HOME\Documents\Visual Studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.Form2.resources
+C:\Users\HOME\Documents\Visual Studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.Form3.resources
+H:\NotePad\NotePad\obj\x86\Debug\NotePad.exe
+H:\NotePad\NotePad\obj\x86\Debug\NotePad.pdb
+H:\NotePad\NotePad\bin\Debug\NotePad.exe
+H:\NotePad\NotePad\bin\Debug\NotePad.pdb
+H:\NotePad\NotePad\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\NotePad\NotePad\obj\x86\Debug\NotePad.Form1.resources
+H:\NotePad\NotePad\obj\x86\Debug\NotePad.Form2.resources
+H:\NotePad\NotePad\obj\x86\Debug\NotePad.Form3.resources
+H:\NotePad\NotePad\obj\x86\Debug\NotePad.Properties.Resources.resources
+H:\NotePad\NotePad\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\NotePad\NotePad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sulman\Dropbox\NotePad\NotePad\obj\x86\Debug\NotePad.exe
+C:\Users\Sulman\Dropbox\NotePad\NotePad\obj\x86\Debug\NotePad.pdb
+C:\Users\Sulman\Dropbox\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\Sulman\Dropbox\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\Sulman\Dropbox\NotePad\NotePad\obj\x86\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Sulman\Dropbox\NotePad\NotePad\obj\x86\Debug\NotePad.Form1.resources
+C:\Users\Sulman\Dropbox\NotePad\NotePad\obj\x86\Debug\NotePad.Form2.resources
+C:\Users\Sulman\Dropbox\NotePad\NotePad\obj\x86\Debug\NotePad.Form3.resources
+C:\Users\Sulman\Dropbox\NotePad\NotePad\obj\x86\Debug\NotePad.Properties.Resources.resources
+C:\Users\Sulman\Dropbox\NotePad\NotePad\obj\x86\Debug\NotePad.csproj.GenerateResource.Cache

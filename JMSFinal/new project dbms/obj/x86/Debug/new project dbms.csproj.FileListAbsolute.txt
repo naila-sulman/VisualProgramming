@@ -1,0 +1,166 @@
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\bin\Debug\new project dbms.exe
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\bin\Debug\new project dbms.pdb
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.Form1.resources
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.Properties.Resources.resources
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new project dbms.exe
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new project dbms.pdb
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.TAKE_NEW_ORDER.resources
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.PLACE_ORDER.resources
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.PAYMENT.resources
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.CUSTOMER_INFORMATION.resources
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.VENDOR_INFORMATION.resources
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.ADD_NEW_PRODUCTS.resources
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.PRODUCT_PAYMENT_TYPE_AND_STATUS.resources
+c:\users\aamir\documents\visual studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.COMPANY_BATCH_PACKING.resources
+C:\Users\AAMIR\Documents\Visual Studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.TASKS.resources
+C:\Users\AAMIR\Documents\Visual Studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.ADD_EMPLOYEES.resources
+C:\Users\AAMIR\Documents\Visual Studio 2010\Projects\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.REMINDER.resources
+C:\Users\AAMIR\Documents\Visual Studio 2010\Projects\new project dbms\new project dbms\bin\Debug\new project dbms.exe.config
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\bin\Debug\new project dbms.exe.config
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new project dbms.exe
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new project dbms.pdb
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\bin\Debug\new project dbms.exe
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\bin\Debug\new project dbms.pdb
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.ADD_EMPLOYEES.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.ADD_NEW_PRODUCTS.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.COMPANY_BATCH_PACKING.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.CUSTOMER_INFORMATION.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.Form1.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.PAYMENT.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.PLACE_ORDER.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.PRODUCT_PAYMENT_TYPE_AND_STATUS.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.Properties.Resources.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.REMINDER.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.TAKE_NEW_ORDER.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.TASKS.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.VENDOR_INFORMATION.resources
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AAMIR\Desktop\new project dbms\new project dbms\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\bin\Debug\new project dbms.exe.config
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new project dbms.exe
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new project dbms.pdb
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\bin\Debug\new project dbms.pdb
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new project dbms.csprojResolveAssemblyReference.cache
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.ADD_EMPLOYEES.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.ADD_NEW_PRODUCTS.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.COMPANY_BATCH_PACKING.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.CUSTOMER_INFORMATION.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.PAYMENT.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.PLACE_ORDER.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.PRODUCT_PAYMENT_TYPE_AND_STATUS.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.Properties.Resources.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.REMINDER.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.TAKE_NEW_ORDER.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.TASKS.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.VENDOR_INFORMATION.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new project dbms.csproj.GenerateResource.Cache
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.EXPIRIES.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\new_project_dbms.MedicineReplacement.resources
+C:\Users\SULMAN\Desktop\new project dbms\new project dbms\obj\x86\Debug\buttonchk.Form1.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\bin\Debug\new project dbms.exe.config
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new project dbms.exe
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new project dbms.pdb
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\bin\Debug\new project dbms.pdb
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new project dbms.csprojResolveAssemblyReference.cache
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.ADD_EMPLOYEES.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.ADD_NEW_PRODUCTS.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.COMPANY_BATCH_PACKING.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.CUSTOMER_INFORMATION.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.EXPIRIES.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\buttonchk.Form1.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.MedicineReplacement.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.PAYMENT.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.PLACE_ORDER.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.PRODUCT_PAYMENT_TYPE_AND_STATUS.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.Properties.Resources.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.REMINDER.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.TAKE_NEW_ORDER.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.TASKS.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.VENDOR_INFORMATION.resources
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new project dbms.csproj.GenerateResource.Cache
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\RdlCompile.cache
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\RdlCompile.compiled
+C:\Users\SULMAN\Desktop\new project dbms\29,5,2013 night before reports\new project dbms\obj\x86\Debug\new_project_dbms.BILL.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.csprojResolveAssemblyReference.cache
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.ADD_EMPLOYEES.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.ADD_NEW_PRODUCTS.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.BILL.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.COMPANY_BATCH_PACKING.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.CUSTOMER_INFORMATION.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.EXPIRIES.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\buttonchk.Form1.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.MedicineReplacement.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.PAYMENT.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.PLACE_ORDER.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.PRODUCT_PAYMENT_TYPE_AND_STATUS.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.Properties.Resources.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.REMINDER.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.TAKE_NEW_ORDER.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.TASKS.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.VENDOR_INFORMATION.resources
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.csproj.GenerateResource.cache
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.csproj.CoreCompileInputs.cache
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.exe
+C:\Users\sulma\OneDrive\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.pdb
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\new project dbms.exe.config
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.exe
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.pdb
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\new project dbms.pdb
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.csprojResolveAssemblyReference.cache
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.ADD_EMPLOYEES.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.ADD_NEW_PRODUCTS.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.BILL.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.COMPANY_BATCH_PACKING.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.CUSTOMER_INFORMATION.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.EXPIRIES.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\buttonchk.Form1.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.MedicineReplacement.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.PAYMENT.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.PLACE_ORDER.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.PRODUCT_PAYMENT_TYPE_AND_STATUS.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.Properties.Resources.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.REMINDER.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.TAKE_NEW_ORDER.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.TASKS.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.VENDOR_INFORMATION.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.csproj.GenerateResource.Cache
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\RdlCompile.cache
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\bin\Debug\new project dbms.exe.config
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new project dbms.exe
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new project dbms.pdb
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new project dbms.csprojResolveAssemblyReference.cache
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.ADD_EMPLOYEES.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.ADD_NEW_PRODUCTS.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.BILL.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.COMPANY_BATCH_PACKING.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.CUSTOMER_INFORMATION.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.EXPIRIES.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\buttonchk.Form1.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.PRODUCTRETURN.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.PAYMENT.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.PLACE_ORDER.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.PRODUCT_PAYMENT_TYPE_AND_STATUS.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.Properties.Resources.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.REMINDER.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.TAKE_NEW_ORDER.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.TASKS.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new_project_dbms.VENDOR_INFORMATION.resources
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\new project dbms.csproj.GenerateResource.Cache
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\RdlCompile.cache
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\bin\Debug\new project dbms.pdb
+C:\Users\Sulman\Desktop\JMSFinal\new project dbms\bin\Debug\Microsoft.SqlServer.Types.dll

@@ -1,0 +1,32 @@
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\new project dbms.exe.config
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\new project dbms.pdb
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\JMSProject.csprojResolveAssemblyReference.cache
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.ADD_EMPLOYEES.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.ADD_NEW_PRODUCTS.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.BILL.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.COMPANY_BATCH_PACKING.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.CUSTOMER_INFORMATION.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.EXPIRIES.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\buttonchk.Form1.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.ProductReplacement.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.PAYMENT.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.PLACE_ORDER.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.PRODUCT_PAYMENT_TYPE_AND_STATUS.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.Properties.Resources.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.REMINDER.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.TAKE_NEW_ORDER.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.TASKS.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new_project_dbms.VENDOR_INFORMATION.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\JMSProject.csproj.GenerateResource.Cache
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\RdlCompile.cache
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.exe
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\new project dbms.pdb
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\JMS.exe.config
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\obj\x86\Debug\JMS.Properties.Resources.resources
+C:\Users\Sulman\Desktop\final project 786 medical & general store\new project dbms\bin\Debug\new_project_dbms.exe.config

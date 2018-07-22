@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Seven86DataSet29" targetNamespace="http://tempuri.org/Seven86DataSet29.xsd" xmlns:mstns="http://tempuri.org/Seven86DataSet29.xsd" xmlns="http://tempuri.org/Seven86DataSet29.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="testing" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="testing (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.JMS.Properties.Settings.GlobalReference.Default.testing" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PRODUCTTableAdapter" GeneratorDataComponentClassName="PRODUCTTableAdapter" Name="PRODUCT" UserDataComponentName="PRODUCTTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="testing (Settings)" DbObjectName="Seven86.dbo.PRODUCT" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT PRODUCTNAME FROM dbo.PRODUCT</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="PRODUCTNAME" DataSetColumn="PRODUCTNAME" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Seven86DataSet29" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Seven86DataSet29" msprop:Generator_UserDSName="Seven86DataSet29">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PRODUCT" msprop:Generator_TableClassName="PRODUCTDataTable" msprop:Generator_TableVarName="tablePRODUCT" msprop:Generator_RowChangedName="PRODUCTRowChanged" msprop:Generator_TablePropName="PRODUCT" msprop:Generator_RowDeletingName="PRODUCTRowDeleting" msprop:Generator_RowChangingName="PRODUCTRowChanging" msprop:Generator_RowEvHandlerName="PRODUCTRowChangeEventHandler" msprop:Generator_RowDeletedName="PRODUCTRowDeleted" msprop:Generator_RowClassName="PRODUCTRow" msprop:Generator_UserTableName="PRODUCT" msprop:Generator_RowEvArgName="PRODUCTRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PRODUCTNAME" msprop:Generator_ColumnVarNameInTable="columnPRODUCTNAME" msprop:Generator_ColumnPropNameInRow="PRODUCTNAME" msprop:Generator_ColumnPropNameInTable="PRODUCTNAMEColumn" msprop:Generator_UserColumnName="PRODUCTNAME">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

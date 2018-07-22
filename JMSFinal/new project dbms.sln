@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new project dbms", "new project dbms\new project dbms.csproj", "{096EBDB6-8337-4711-8E60-6A2B57FA5A8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{578F7574-033B-4282-A3DD-935416FB5158}"
+	ProjectSection(SolutionItems) = preProject
+		new project dbms\bin\Debug\EventMangementsystemClass.cs = new project dbms\bin\Debug\EventMangementsystemClass.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096EBDB6-8337-4711-8E60-6A2B57FA5A8E}.Debug|x86.ActiveCfg = Debug|x86
+		{096EBDB6-8337-4711-8E60-6A2B57FA5A8E}.Debug|x86.Build.0 = Debug|x86
+		{096EBDB6-8337-4711-8E60-6A2B57FA5A8E}.Release|x86.ActiveCfg = Release|x86
+		{096EBDB6-8337-4711-8E60-6A2B57FA5A8E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

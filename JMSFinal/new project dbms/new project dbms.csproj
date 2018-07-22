@@ -1,0 +1,874 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{096EBDB6-8337-4711-8E60-6A2B57FA5A8E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>new_project_dbms</RootNamespace>
+    <AssemblyName>new project dbms</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="new project dbms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <ExecutableExtension>.exe</ExecutableExtension>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADD EMPLOYEES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADD EMPLOYEES.Designer.cs">
+      <DependentUpon>ADD EMPLOYEES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADD_NEW_PRODUCTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADD_NEW_PRODUCTS.Designer.cs">
+      <DependentUpon>ADD_NEW_PRODUCTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BILL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BILL.Designer.cs">
+      <DependentUpon>BILL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BILLSET.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BILLSET.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="COMPANY_BATCH_PACKING.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPANY_BATCH_PACKING.Designer.cs">
+      <DependentUpon>COMPANY_BATCH_PACKING.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUSTDATASET.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CUSTDATASET.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CUSTOMER_INFORMATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CUSTOMER_INFORMATION.Designer.cs">
+      <DependentUpon>CUSTOMER_INFORMATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet21.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EventMangementsystemClass.cs" />
+    <Compile Include="EXPIRIES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EXPIRIES.designer.cs">
+      <DependentUpon>EXPIRIES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM1_2.cs" />
+    <Compile Include="INT.cs" />
+    <Compile Include="PRODUCTRETURN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRODUCTRETURN.designer.cs">
+      <DependentUpon>PRODUCTRETURN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAYMENT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAYMENT.Designer.cs">
+      <DependentUpon>PAYMENT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PLACE_ORDER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PLACE_ORDER.Designer.cs">
+      <DependentUpon>PLACE_ORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRODUCT_PAYMENT_TYPE_AND_STATUS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRODUCT_PAYMENT_TYPE_AND_STATUS.Designer.cs">
+      <DependentUpon>PRODUCT_PAYMENT_TYPE_AND_STATUS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="REMINDER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REMINDER.Designer.cs">
+      <DependentUpon>REMINDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet14.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet16.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet16.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet17.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet17.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet18.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet18.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet19.cs">
+      <DependentUpon>Seven86DataSet19.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Seven86DataSet19.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet19.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet20.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet20.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet21.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet21.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet22.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet22.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet23.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet23.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet24.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet24.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet25.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet25.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet26.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet26.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet27.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet27.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet28.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet28.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet29.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet29.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet30.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet30.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet31.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet31.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86DataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86DataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Seven86settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Seven86settings.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="TAKE_NEW_ORDER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TAKE_NEW_ORDER.Designer.cs">
+      <DependentUpon>TAKE_NEW_ORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TASKS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TASKS.Designer.cs">
+      <DependentUpon>TASKS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VENDOR_INFORMATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENDOR_INFORMATION.Designer.cs">
+      <DependentUpon>VENDOR_INFORMATION.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ADD EMPLOYEES.resx">
+      <DependentUpon>ADD EMPLOYEES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADD_NEW_PRODUCTS.resx">
+      <DependentUpon>ADD_NEW_PRODUCTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BILL.resx">
+      <DependentUpon>BILL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPANY_BATCH_PACKING.resx">
+      <DependentUpon>COMPANY_BATCH_PACKING.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUSTOMER_INFORMATION.resx">
+      <DependentUpon>CUSTOMER_INFORMATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EXPIRIES.resx">
+      <DependentUpon>EXPIRIES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRODUCTRETURN.resx">
+      <DependentUpon>PRODUCTRETURN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAYMENT.resx">
+      <DependentUpon>PAYMENT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PLACE_ORDER.resx">
+      <DependentUpon>PLACE_ORDER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRODUCT_PAYMENT_TYPE_AND_STATUS.resx">
+      <DependentUpon>PRODUCT_PAYMENT_TYPE_AND_STATUS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="REMINDER.resx">
+      <DependentUpon>REMINDER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="TAKE_NEW_ORDER.resx">
+      <DependentUpon>TAKE_NEW_ORDER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TASKS.resx">
+      <DependentUpon>TASKS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENDOR_INFORMATION.resx">
+      <DependentUpon>VENDOR_INFORMATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="BILLSET.xsc">
+      <DependentUpon>BILLSET.xsd</DependentUpon>
+    </None>
+    <None Include="BILLSET.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BILLSET.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BILLSET.xss">
+      <DependentUpon>BILLSET.xsd</DependentUpon>
+    </None>
+    <None Include="CUSTDATASET.xsc">
+      <DependentUpon>CUSTDATASET.xsd</DependentUpon>
+    </None>
+    <None Include="CUSTDATASET.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CUSTDATASET.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CUSTDATASET.xss">
+      <DependentUpon>CUSTDATASET.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet21.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Seven86DataSet.xsc">
+      <DependentUpon>Seven86DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet.xss">
+      <DependentUpon>Seven86DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet1.xsc">
+      <DependentUpon>Seven86DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet1.xss">
+      <DependentUpon>Seven86DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet10.xsc">
+      <DependentUpon>Seven86DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet10.xss">
+      <DependentUpon>Seven86DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet11.xsc">
+      <DependentUpon>Seven86DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet11.xss">
+      <DependentUpon>Seven86DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet12.xsc">
+      <DependentUpon>Seven86DataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet12.xss">
+      <DependentUpon>Seven86DataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet13.xsc">
+      <DependentUpon>Seven86DataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet13.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet13.xss">
+      <DependentUpon>Seven86DataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet14.xsc">
+      <DependentUpon>Seven86DataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet14.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet14.xss">
+      <DependentUpon>Seven86DataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet15.xsc">
+      <DependentUpon>Seven86DataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet15.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet15.xss">
+      <DependentUpon>Seven86DataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet16.xsc">
+      <DependentUpon>Seven86DataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet16.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet16.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet16.xss">
+      <DependentUpon>Seven86DataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet17.xsc">
+      <DependentUpon>Seven86DataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet17.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet17.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet17.xss">
+      <DependentUpon>Seven86DataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet18.xsc">
+      <DependentUpon>Seven86DataSet18.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet18.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet18.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet18.xss">
+      <DependentUpon>Seven86DataSet18.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet19.xsc">
+      <DependentUpon>Seven86DataSet19.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet19.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet19.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet19.xss">
+      <DependentUpon>Seven86DataSet19.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet2.xsc">
+      <DependentUpon>Seven86DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet2.xss">
+      <DependentUpon>Seven86DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet20.xsc">
+      <DependentUpon>Seven86DataSet20.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet20.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet20.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet20.xss">
+      <DependentUpon>Seven86DataSet20.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet21.xsc">
+      <DependentUpon>Seven86DataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet21.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet21.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet21.xss">
+      <DependentUpon>Seven86DataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet22.xsc">
+      <DependentUpon>Seven86DataSet22.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet22.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet22.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet22.xss">
+      <DependentUpon>Seven86DataSet22.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet23.xsc">
+      <DependentUpon>Seven86DataSet23.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet23.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet23.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet23.xss">
+      <DependentUpon>Seven86DataSet23.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet24.xsc">
+      <DependentUpon>Seven86DataSet24.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet24.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet24.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet24.xss">
+      <DependentUpon>Seven86DataSet24.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet25.xsc">
+      <DependentUpon>Seven86DataSet25.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet25.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet25.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet25.xss">
+      <DependentUpon>Seven86DataSet25.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet26.xsc">
+      <DependentUpon>Seven86DataSet26.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet26.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet26.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet26.xss">
+      <DependentUpon>Seven86DataSet26.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet27.xsc">
+      <DependentUpon>Seven86DataSet27.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet27.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet27.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet27.xss">
+      <DependentUpon>Seven86DataSet27.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet28.xsc">
+      <DependentUpon>Seven86DataSet28.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet28.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet28.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet28.xss">
+      <DependentUpon>Seven86DataSet28.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet29.xsc">
+      <DependentUpon>Seven86DataSet29.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet29.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet29.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet29.xss">
+      <DependentUpon>Seven86DataSet29.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet3.xsc">
+      <DependentUpon>Seven86DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet3.xss">
+      <DependentUpon>Seven86DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet30.xsc">
+      <DependentUpon>Seven86DataSet30.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet30.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet30.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet30.xss">
+      <DependentUpon>Seven86DataSet30.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet31.xsc">
+      <DependentUpon>Seven86DataSet31.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet31.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet31.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet31.xss">
+      <DependentUpon>Seven86DataSet31.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet4.xsc">
+      <DependentUpon>Seven86DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet4.xss">
+      <DependentUpon>Seven86DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet5.xsc">
+      <DependentUpon>Seven86DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet5.xss">
+      <DependentUpon>Seven86DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet6.xsc">
+      <DependentUpon>Seven86DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet6.xss">
+      <DependentUpon>Seven86DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet7.xsc">
+      <DependentUpon>Seven86DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet7.xss">
+      <DependentUpon>Seven86DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet8.xsc">
+      <DependentUpon>Seven86DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet8.xss">
+      <DependentUpon>Seven86DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet9.xsc">
+      <DependentUpon>Seven86DataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86DataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86DataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86DataSet9.xss">
+      <DependentUpon>Seven86DataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86settings.xsc">
+      <DependentUpon>Seven86settings.xsd</DependentUpon>
+    </None>
+    <None Include="Seven86settings.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Seven86settings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Seven86settings.xss">
+      <DependentUpon>Seven86settings.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cropped-watson-349-net-header.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dic-header.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="drugdisposal_header.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="header-photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="header.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="header-pharma.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="header_pharmacy_flowwell.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pharmacy-secondary-header-jpg_20111104t153700_en_web_24c8f4fdbd4746cbb6f6c5d2056a6c0e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper_8547.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
